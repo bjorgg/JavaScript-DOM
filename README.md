@@ -11,3 +11,5 @@ and when you do so a loading bar displays for a couple of seconds using
 setTimeout. I also display a clock on the screen using setInterval.
 
 You can find comments in the JavaScript code for further information.
+
+Page public url: https://bjorgg.github.io/JavaScript-DOM/
